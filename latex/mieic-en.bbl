@@ -1,0 +1,282 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{AAAAAR{\etalchar{+}}14}
+
+\bibitem[AAAAAR{\etalchar{+}}14]{Al-Azri2014}
+Mohammed Al-Azri, Huda Al-Awisi, Samira Al-Rasbi, Kawther El-Shafie, Mustafa
+  Al-Hinai, Hamdan Al-Habsi, and Mansour Al-Moundhri.
+\newblock {Psychosocial impact of breast cancer diagnosis among Omani women}.
+\newblock {\em Oman Medical Journal}, 29(6):437--444, 2014.
+
+\bibitem[AMS76]{apenn}
+F~S Azar, D~Metaxas, and M~D Schnall.
+\newblock {A Finite Element Model of the Breast for Predicting Mechanical
+  Deformations during Interventional Procedures}.
+\newblock 00(c):5, 1976.
+
+\bibitem[BHR{\etalchar{+}}17]{3dprintplos}
+Thore~M. Bücking, Emma~R. Hill, James~L. Robertson, Efthymios Maneas,
+  Andrew~A. Plumb, and Daniil~I. Nikitichev.
+\newblock From medical imaging data to 3d printed anatomical models.
+\newblock {\em PLOS ONE}, 12(5):1--10, 05 2017.
+
+\bibitem[BI90]{Berwick1990}
+R~Berwick and Village Idiot.
+\newblock {An Idiot ' s guide to Support vector machines ( SVMs ) SVMs : A New
+  Generation of Learning Algorithms Key Ideas}.
+\newblock pages 1--28, 1990.
+
+\bibitem[Bio]{Biomechanics}
+Computational Biomechanics.
+\newblock {\em {No Title}}.
+
+\bibitem[BVBM]{Borchani}
+Hanen Borchani, Gherardo Varando, Concha Bielza, and Boadilla Monte.
+\newblock {A survey on multi-output regression}.
+\newblock pages 1--27.
+
+\bibitem[CHO09]{CHOU2009}
+CRUI CHOU.
+\newblock {Learning Based Coarse-to-fine Image Registration}.
+\newblock {\em Icfcc, 2010}, 2009.
+
+\bibitem[CMZO14]{Costa2014}
+Pedro Costa, Jo{\~{a}}o~P. Monteiro, Hooshiar Zolfagharnasab, and
+  H{\'{e}}lder~P. Oliveira.
+\newblock {Tessellation-based coarse registration method for 3D reconstruction
+  of the female torso}.
+\newblock {\em Proceedings - 2014 IEEE International Conference on
+  Bioinformatics and Biomedicine, IEEE BIBM 2014}, pages 301--306, 2014.
+
+\bibitem[Cut13]{Cutler2013}
+Adele Cutler.
+\newblock {Trees and Random Forests}.
+\newblock pages 1--92, 2013.
+
+\bibitem[DD16]{De2016}
+Aculdade De and Niversidade Do.
+\newblock {Framework for Planing the Aesthetic Result after Breast Surgery}.
+\newblock 2016.
+
+\bibitem[D'O08]{DOrsi2008}
+Carl~J. D'Orsi.
+\newblock {Breast Imaging}.
+\newblock {\em Radiographics}, 42(5):xi--xii, 2008.
+
+\bibitem[EM13]{Ellis2013}
+Harold Ellis and Vishy Mahadevan.
+\newblock {Anatomy and physiology of the breast}.
+\newblock {\em Surgery (United Kingdom)}, 31(1):11--14, 2013.
+
+\bibitem[EPJ{\etalchar{+}}08]{Engineering2008}
+Medical Engineering, Amaya Perez, Javier Jover, Herrero Alma, and I~T Systems.
+\newblock {A finite element model to accurately predict real deformations of
+  the breast}.
+\newblock (April), 2008.
+
+\bibitem[EVH{\etalchar{+}}16]{Eiben2016}
+Bj{\"{o}}rn Eiben, Vasileios Vavourakis, John~H. Hipwell, Sven Kabus, Thomas
+  Buelow, Cristian Lorenz, Thomy Mertzanidou, Sara Reis, Norman~R. Williams,
+  Mohammed Keshtgar, and David~J. Hawkes.
+\newblock {Symmetric Biomechanically Guided Prone-to-Supine Breast Image
+  Registration}.
+\newblock {\em Annals of Biomedical Engineering}, 44(1):154--173, 2016.
+
+\bibitem[FFA{\etalchar{+}}00]{Finne2000}
+Patrik Finne, Ralf Finne, Anssi Auvinen, Harri Juusela, Jussi Aro, Liisa
+  M{\"{a}}{\"{a}}tt{\"{a}}nen, Matti Hakama, Sakari Rannikko, Teuvo L~J
+  Tammela, and Ulf~H{\aa}kan Stenman.
+\newblock {Predicting the outcome of prostate biopsy in screen-positive men by
+  a multilayer perceptron network}.
+\newblock {\em Urology}, 56(3):418--422, 2000.
+
+\bibitem[FGH{\etalchar{+}}14]{Foersterling2014}
+Eva Foersterling, Michael Golatta, Andre Hennigs, Sophie Schulz, Geraldine
+  Rauch, Sarah Schott, Christoph Domschke, Florian Schuetz, Christof Sohn, and
+  Joerg Heil.
+\newblock {Predictors of early poor aesthetic outcome after breast-conserving
+  surgery in patients with breast cancer: initial results of a prospective
+  cohort study at a single institution}.
+\newblock {\em Journal of surgical oncology}, 110(7):801--806, 2014.
+
+\bibitem[FSLH13]{Fowler2013}
+E.~E. Fowler, T.~A. Sellers, B.~Lu, and J.~J. Heine.
+\newblock {Breast Imaging Reporting and Data System (BI-RADS) breast
+  composition descriptors: Automated measurement development for full field
+  digital mammography}.
+\newblock {\em Medical Physics}, 40(11):113502, 2013.
+
+\bibitem[GM97]{Gibson97asurvey}
+Sarah F.~F. Gibson and Brian Mirtich.
+\newblock A survey of deformable modeling in computer graphics.
+\newblock Technical report, Mitsubishi Electric Research Laboratories, 1997.
+
+\bibitem[GSTB13]{Garbey2013}
+M.~Garbey, R.~Salmon, D.~Thanoon, and B.~L. Bass.
+\newblock {Multiscale modeling and distributed computing to predict cosmesis
+  outcome after a lumpectomy}.
+\newblock {\em Journal of Computational Physics}, 244:321--335, 2013.
+
+\bibitem[Gun98]{Gunn1998}
+Steve~R Gunn.
+\newblock {Support Vector Machines for Classification and Regression by}.
+\newblock (May):66, 1998.
+
+\bibitem[IAI{\etalchar{+}}16]{Iben2016}
+R~N~E Iben, V~Asileios~V Avourakis, J~O H N H~H Ipwell, S~V E N~K Abus,
+  T~Homas~B Uelow, C~Ristian~L Orenz, T~Homy~M Ertzanidou, S~A R A~R Eis,
+  N~Orman R~W Illiams, and M~Ohammed~K Eshtgar.
+\newblock {Symmetric Biomechanically Guided Prone-to-Supine Breast Image
+  Registration}.
+\newblock 44(1):154--173, 2016.
+
+\bibitem[JJM13]{Joo2013}
+Ilyang Joo, Kanghun Jeong, and Hyeonjoon Moon.
+\newblock {Breast image registration for PET-CT and MR based on 3D surface
+  matching}.
+\newblock {\em International Journal of Bio-Science and Bio-Technology},
+  5(6):201--206, 2013.
+
+\bibitem[JVM{\etalchar{+}}12]{Joa2012}
+Maria Joa, Conny Vrieling, Douglas Macmillan, Dick Rainsbury, Joerg Heil, Eric
+  Hau, and Mohammed Keshtgar.
+\newblock {Recommendations for the aesthetic evaluation of breast cancer
+  conservative treatment}.
+\newblock pages 629--637, 2012.
+
+\bibitem[KM04]{Kurihara2004}
+Tsuneya Kurihara and Natsuki Miyata.
+\newblock {Modeling Deformable Human Hands from Medical Images}.
+\newblock {\em Eurographics/ACM SIGGRAPH Symposium on Computer Animation},
+  pages 355--363, 2004.
+
+\bibitem[KSR{\etalchar{+}}08]{Kim2008}
+Min~Soon Kim, Juliano~C. Sbalchiero, Gregory~P. Reece, Michael~J. Miller,
+  Elisabeth~K. Beahm, and Mia~K. Markey.
+\newblock {Assessment of Breast Aesthetics}.
+\newblock {\em Plastic and Reconstructive Surgery}, 121(4):186e--194e, 2008.
+
+\bibitem[LRB{\etalchar{+}}13]{Lee2013}
+Angela W~C Lee, Vijayaraghavan Rajagopal, Thiranja~P. {Babarenda Gamage},
+  Anthony~J. Doyle, Poul M~F Nielsen, and Martyn~P. Nash.
+\newblock {Breast lesion co-localisation between X-ray and MR images using
+  finite element modelling}.
+\newblock {\em Medical Image Analysis}, 17(8):1256--1264, 2013.
+
+\bibitem[MWWC]{Munchen}
+Technische~Universit{\"{a}}t M{\"{u}}nchen, Florian Walch, Florian Walch, and
+  Prof~Daniel Cremers.
+\newblock {Master ' s Thesis in Informatics Deep Learning for Image-Based
+  Localization Master ' s Thesis in Informatics Deep Learning for Image-Based
+  Localization Deep Learning f{\"{u}}r bildbasierte Lokalisierung}.
+
+\bibitem[NJ16]{Nygren2016}
+Patrik Nygren and Michael Jasinski.
+\newblock {A Comparative Study of Segmentation and Classification Methods for
+  3D Point Clouds}.
+\newblock 2016.
+
+\bibitem[OMH83]{Oster1983}
+G.~F. Oster, J.~D. Murray, and A.~K. Harris.
+\newblock {Mechanical aspects of mesenchymal morphogenesis}.
+\newblock {\em J Embryol Exp Morphol}, 78(1):83--125, 1983.
+
+\bibitem[OoBIBP{\etalchar{+}}16]{Ortiz2016}
+Alberto (Dept. of~Mathematics Ortiz, Computer Science /~University
+  of~Balearic~Islands), Francisco Bonnin-Pascual, Emilio Garcia-Fidalgo, and
+  Joan~P. Company.
+\newblock {Visual Inspection of Vessels by Means of aMicro-Aerial Vehicle: An
+  Artificial Neural Network Approach for Corrosion Detection}.
+\newblock {\em Robot 2015: Second Iberian Robotics Conference},
+  418(October):543--555, 2016.
+
+\bibitem[PCO14]{Pernes2014}
+Diogo Pernes, Jaime~S. Cardoso, and H{\'{e}}lder~P. Oliveira.
+\newblock {Fitting of superquadrics for breast modelling by geometric distance
+  minimization}.
+\newblock 2014.
+
+\bibitem[PIS{\etalchar{+}}13]{1085f1d}
+Paolo Patete, {Maria Ida} Iacono, {Maria Francesca} Spadea, Giovanna Trecate,
+  Daniele Vergnaghi, {Luca Tommaso} Mainardi, and Guido Baroni.
+\newblock A multi-tissue mass-spring model for computer assisted breast
+  surgery.
+\newblock {\em Medical Engineering and Physics}, 35:47--53, 1 2013.
+
+\bibitem[PMV03]{Pluim2003}
+Josien P~W Pluim, J.~B A~Antoine Maintz, and Max~A. Viergever.
+\newblock {Mutual-information-based registration of medical images: A survey}.
+\newblock {\em IEEE Transactions on Medical Imaging}, 22(8):986--1004, 2003.
+
+\bibitem[Qi]{Qi}
+Charles~R Qi.
+\newblock {PointNet: Deep Learning on Point Sets for 3D Classification and
+  Segmentation}.
+
+\bibitem[Rea99]{Rueckertetal.1999}
+D.~Rueckert~et al.
+\newblock {Nonrigid registration using free-form deformations: application to
+  breast MR images.}
+\newblock {\em IEEE Trans. Med. Imag.}, 18(8):712--21, 1999.
+
+\bibitem[Row00]{Rowland2000}
+{Role of Breast Reconstructive Surgery in Physical and Emotional Outcomes Among
+  Breast Cancer Survivors gested that conservation or restitution of the breast
+  might mitigate the nega- tive effects of breast cancer on women ' s ectomy ,
+  mastectomy alone , or}.
+\newblock {\em J Natl Cancer Inst}, 92(17):1422--1429, 2000.
+
+\bibitem[SASB08]{Sohn2008}
+Vance~Y. Sohn, Zachary~M. Arthurs, James~A. Sebesta, and Tommy~A. Brown.
+\newblock {Primary tumor location impacts breast cancer survival}.
+\newblock {\em American Journal of Surgery}, 195(5):641--644, 2008.
+
+\bibitem[SSAG11]{Sreekanth2011}
+P.~D. Sreekanth, P.~D. Sreedevi, Shakeel Ahmed, and N.~Geethanjali.
+\newblock {Comparison of FFNN and ANFIS models for estimating groundwater
+  level}.
+\newblock {\em Environmental Earth Sciences}, 62(6):1301--1310, 2011.
+
+\bibitem[SSNS12]{Saidin2012}
+Nafiza Saidin, HAM Sakim, UK~Ngah, and IL~Shuaib.
+\newblock {Segmentation of breast regions in mammogram based on density: a
+  review}.
+\newblock {\em International Journal of Computer Science Issues},
+  9(4):108--116, 2012.
+
+\bibitem[TCL{\etalchar{+}}13]{Tam2013}
+Gary K~L Tam, Zhi-quan Cheng, Yu-kun Lai, Frank~C Langbein, Yonghuai Liu, David
+  Marshall, Ralph~R Martin, Xian-fang Sun, and Paul~L Rosin.
+\newblock {Registration of 3D Point Clouds and Meshes: A Survey from Rigid to
+  Nonrigid}.
+\newblock {\em IEEE transactionS ON visualization AND computer graphics},
+  19(7):1199--1217, 2013.
+
+\bibitem[{Tei}]{marge}
+{Teixeira, J. - INESC TEC}.
+\newblock Multi-view annotation tool for radiology images.
+
+\bibitem[VEH{\etalchar{+}}16]{Vavourakis2016}
+Vasileios Vavourakis, Bjoern Eiben, John~H. Hipwell, Norman~R. Williams,
+  Mo~Keshtgar, and David~J. Hawkes.
+\newblock {Multiscale mechano-biological finite element modelling of
+  oncoplastic breast surgery - Numerical study towards surgical planning and
+  cosmetic outcome prediction}.
+\newblock {\em PLoS ONE}, 11(7), 2016.
+
+\bibitem[VU98]{Vision1998}
+Computer Vision and Image Understanding.
+\newblock {A Parametric Deformable Model To Fit Unstructured 3D Data}.
+\newblock 1:39--54, 1998.
+
+\bibitem[Wit04]{Witmer2004}
+Lawrence~M Witmer.
+\newblock {Clinical Anatomy of the}.
+\newblock 2004.
+
+\bibitem[WPA09]{Wyawahare2009}
+Medha~V Wyawahare, Pradeep~M Patil, and Hemant~K Abhyankar.
+\newblock {Image Registration Techniques : An overview}.
+\newblock {\em International Journal of Signal Processing, Image Processing and
+  Pattern Recognition}, 2(3):11--28, 2009.
+
+\end{thebibliography}

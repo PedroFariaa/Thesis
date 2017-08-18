@@ -1,0 +1,89 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Breast Structure}}{6}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Breast Regions}}{7}{figure.caption.10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Breast cancer incidence by stage}}{8}{figure.caption.11}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Breast Cancer Surgery}}{10}{figure.caption.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Mastectomy}}}{10}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Breast Conserving Surgery}}}{10}{subfigure.4.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Examples of superellipsoids}}{15}{figure.caption.14}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces FFD deformation}}{17}{figure.caption.15}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Box of control points with embedded object}}}{17}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Object of the deformed box}}}{17}{subfigure.2.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 3D mesh with isoparametric elements}}{19}{figure.caption.16}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Example of computational process for surgical simulator}}{19}{figure.caption.17}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Crisalix interface}}{21}{figure.caption.18}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces SculptMyDream interface}}{22}{figure.caption.19}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Axis Three Software}}{22}{figure.caption.20}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces BCS planning tool Use Cases}}{29}{figure.caption.22}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces BCS planning tool flow}}{30}{figure.caption.23}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces BCS planning tool interface}}{32}{figure.caption.24}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Initial view}}}{32}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Point Selection View}}}{32}{subfigure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Breast Segmentation View}}}{32}{subfigure.3.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Warning Alert}}}{32}{subfigure.3.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Tumor's view}}}{32}{subfigure.3.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Excision's view}}}{32}{subfigure.3.6}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces BCS planning Tool Interface}}{33}{figure.caption.25}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Flowchart of the applied methodology}}{35}{figure.caption.27}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Flowchart for the dataset generation}}{36}{figure.caption.28}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Representation of the Breast, Pectoral muscle and Latissimus Dorsi}}{37}{figure.caption.29}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Breast Segmentation result}}{37}{figure.caption.30}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Interface of MARge tool used for the breast segmentation}}{38}{figure.caption.31}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces 3D breast geometry transformations}}{39}{figure.caption.32}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {3D view of Prone geometry}}}{39}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Lateral view of Prone geometry}}}{39}{subfigure.6.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {3D view of Unloaded geometry}}}{39}{subfigure.6.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Lateral view of Unloaded geometry}}}{39}{subfigure.6.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {3D view of Supine geometry}}}{39}{subfigure.6.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Lateral view of Supine geometry}}}{39}{subfigure.6.6}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {3D view of Upright geometry}}}{39}{subfigure.6.7}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Lateral view of Upright geometry}}}{39}{subfigure.6.8}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Breast quadrants used for tumor location}}{40}{figure.caption.33}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Wound Healing simulation}}{41}{figure.caption.34}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Frontal view}}}{41}{subfigure.8.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Lateral view}}}{41}{subfigure.8.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {3D view}}}{41}{subfigure.8.3}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Clinical features combinations}}{42}{figure.caption.35}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Workchart summarizing the breast's geometry transformations and wound healing simulation}}{43}{figure.caption.36}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Example of the impact of tumor's location (region) on the breast's deformation}}{44}{figure.caption.37}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Example of the impact of tumor's size on the breast's deformation}}{45}{figure.caption.38}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Example of the impact of breast density (ACR) on deformation}}{46}{figure.caption.39}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Example of breast point cloud to be used as ML input}}{46}{figure.caption.40}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Frontal view}}}{46}{subfigure.14.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Lateral view}}}{46}{subfigure.14.2}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Example of breast point cloud's reflection}}{47}{figure.caption.41}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {left breast of a patient}}}{47}{subfigure.15.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Reflection of the left breast of the patient}}}{47}{subfigure.15.2}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Representation of a MLP}}{48}{figure.caption.43}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Example of a RF result}}{49}{figure.caption.44}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Comparison between pre-surgical, pos-surgical and predicted through a naive method breast's models}}{57}{figure.caption.48}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Example of a breast with a less deformation caused by BCS}}}{57}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Example of a breast with a more noticeable deformation caused by BCS}}}{57}{subfigure.1.2}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Comparison between pre-surgical, pos-surgical and predicted breast's models through the second implementation of a naive method }}{58}{figure.caption.51}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Example of a breast with a lesser deformation caused by BCS}}}{58}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Example of a breast with a more noticeable deformation caused by BCS}}}{58}{subfigure.2.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Visual examples of the prediction results obtained by the RF prediction models}}{61}{figure.caption.57}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{61}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{61}{subfigure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{61}{subfigure.3.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{61}{subfigure.3.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{61}{subfigure.3.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{61}{subfigure.3.6}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces aa}}{63}{figure.caption.62}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Comparison between the predictions of RF and MLP regression models.}}{64}{figure.caption.63}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Displacement between the pos and pre-surgical 3D models for all the points of the patients in the dataset}}{66}{figure.caption.68}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Displacement on x axis}}}{66}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Displacement on y axis}}}{66}{subfigure.6.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Displacement on z axis}}}{66}{subfigure.6.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Comparison between the displacements on the three axis}}}{66}{subfigure.6.4}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Prediction errors heatmap}}{69}{figure.caption.73}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{69}{subfigure.7.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{69}{subfigure.7.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

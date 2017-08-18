@@ -1,0 +1,43 @@
+\chapter{Introduction} \label{chap:intro}
+Despite being the most common cancer among females \footnote{\url{http://www.wcrf.org/int/cancer-facts-figures/worldwide-data}}, Breast Cancer (BC) is known to be treated with satisfactory aesthetic outcome if diagnosed in early stages. Howsoever, available treatments impose deformation to the treated breasts that  impacts the patients' self-esteem and Quality of Life (QoL), that have to live with these consequences for many years. The outcome of the surgery depends on a wide variety of parameters such as the size and location of the tumor, the volume of the breast, the density of both breasts and excised tissue, and finally the effects from complementary treatments such as chemotherapy and radiotherapy and the applied breast cancer surgery.
+
+\section{Context} \label{sec:context}
+Despite of the reasonable aesthetic outcome provided by the current treatments such as BCS (Breast Conserving Surgery), predicting the outcome of the treatment will allow the patient to understand the impacts of treatment and to make a more secure and confident decision. The interaction between physicians and patients would also be enhanced given that the possible aesthetic outcomes and the treatments strategies and the patient's concerns may be discussed through the utilization of visual cues.
+
+\section{Motivation} \label{sec:motiv}
+There are a few frameworks and tools for the breast plastic surgery planning and even less regarding the oncological surgery planing. 
+
+In one side, the existing frameworks on plastic surgery considered transformations that could be applied from female generic torso to high-fidelity 3D models of specific patient. However, this frameworks only focused on breast augmentation and were not designed to preform any other kinds of breast shape deformation.
+
+On the other side, the existing tools on oncological surgery planning used generic female torso that made the surgery planning more difficult once the patient expectations were unreliable, given the greater difficulty of the patients on projecting themselves on the generic torso models, or were based on complex models that required a large computation time being unreliable on real-time scenarios.
+
+The decision making regarding the treatment methodology of BC may be an easier process when it is possible to visualize a predicted deformation of the patient's specific breast model.
+
+\section{Objectives} \label{sec:objectives}
+
+This thesis focuses on predicting breast deformation during the healing process after a BCS. In order to allow the prediction of those deformations, machine learning techniques that consider pre-surgery models, simulated post-surgery models and clinical annotations regarding the tumor's and breast's information will be explored. Despite of being already possible to predict these deformations through biomechanical models, this approach will allow to obtain the same predictions on a real-time scenario. To achieve it, and once there is not enough information gathered about real patients, more information is required to be synthesized based on the information of real patients already gathered.
+
+
+\section{Contributions} \label{sec:contrib}
+
+The contributions that this dissertation offers are listed below:
+
+\begin{itemize}
+\item A semi-synthetic dataset with 3D models of breasts before and after BCS;
+\item A tool to define the tumor on a patients' 3D model of the breast;
+\item A model to predict the breast deformations caused by BCS.
+\end{itemize}
+
+\section{Structure} \label{sec:struct}
+
+Besides this chapter, this dissertation counts with five more chapters.
+
+In chapter \ref{chap:breastcancer}, the fundamentals and the concepts of the breast cancer are explained including: current statistics, most recent and used treatments on this field and the influence and the impact of BCS on the QoL of the patients.
+
+Chapter \ref{chap:modeling}, focuses on 3D models; how the data that would allow theirs generation are gathered, some modeling methodologies techniques and their application with emphasis when used for breast modeling.
+
+Chapter \ref{chap:method} presents the applied methodology: generating the dataset, predicting deformations and validating outcomes.
+
+Chapter \ref{chap:results} presents the results obtained trough the thesis development: visual results and metrics for the obtained learning models.
+
+And finally, chapter \ref{chap:concl} provides conclusions and possible improvements to enhance the present work in the future.

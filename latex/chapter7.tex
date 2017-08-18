@@ -1,0 +1,19 @@
+\chapter{Conclusions}\label{chap:concl}
+
+\section*{}
+
+Due to the high survivability of breast cancer, treatments that lead to a better QoL and a better aesthetic outcomes are being more popular. In order to offer these conditions to the patients, health professional can take advantage from tools in order to assists the patients to choose and follow the most appropriated treatment.
+The present dissertation focused on the application of machine learning techniques in order to improve the deformation caused by BCS. Alongside with the dataset generation, a planning tool was developed, that would allow a Health professional to position the tumor and define its properties on a 3D representation of the patient's own 3D model of the breast. Such application was also useful for producing the dataset. Consequently a study on the clinical features was done in order to understand the behaviour of the breast on the wound healing process.
+At the final stage of the dissertation, following the definition of the models' evaluation metrics, some machine learning approaches such as RF, MLP and MOR were addressed.
+
+The developed work allowed to predict breast deformations caused by BCS in only a small portion of the time that would take a FEM approach to predict the same deformation. Based on the achieved results, and despite of the necessary improvements, machine learning techniques lead to significantly good results and when slightly improved will be able to completely replace the time consuming and highly computational power requirements alternatives, such as FEM.
+
+\subsection{Future Work}
+
+Regarding the planning tool, and despite of the input of some health professionals on what application features the tool should include, the developed one lacks of acceptance and usability tests targeted to the medical community. Through the results and conclusion drawn from such tests, some interface adjustment may need to be made.
+
+The dataset generation was a very exhaustive process and to the lack of more clinical MRI data to generate 3D models, the creation of a larger dataset was not possible. Having more data would be useful for a better training of the machine learning models and would allow to try some deep learning algorithms.
+
+Concerning the used ML approaches, there are still some possibilities that should be tested. The designed models used as entries individual points and some additional features. An interesting alternative would be using the whole point cloud as an entry of the model. The results presented in chapter \ref{chap:results}, despite of the small errors on the mean distance between the predicted and the pos-surgical models, still present an unsatisfactory error on the maximum distance between the models. This could be reduced by changing the objective function of the models' cross validation in order to minimize to minimize the maximum prediction error, instead of fitting the model according to the root mean squared errors. 
+
+Also, it would also be interesting to predict cumulative deformations for shorter periods of time.

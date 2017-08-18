@@ -1,0 +1,20 @@
+\chapter*{Abstract}
+
+According to the annual report from the World Health Organization, breast cancer is the most frequent cancer among females. Considering all the treatments, surgery is being applied mostly using two methodologies: Mastectomy, that results on removing not only tumor, but also the total breast tissue; and Breast Cancer Surgery (BCS) where only the tumor is removed with a thin layer of healthy tissue around it. It is clear that performing invasive treatment such as surgery, will lead to impose deformations on the breast, which can influence patients’ quality of life (QoL). In this way, technology can be assisted to provide a framework that would improve the way patients interact with physicians. Enhancing this framework with the tools to visualize deformation and the healing process after the surgery can elevate patients’ QoL.
+
+In order to accomplish the mentioned aim, this thesis focuses on obtaining training models to describe anatomical deformations during the healing process of the breast after BCCT. To achieve reliable training models, a dataset with several 3D breast models is required. Therefore, a semi-synthetic dataset will be generated, containing 3D breast models representing the patients’ breasts before and after the surgery. The pre-surgical models are obtained through MRI data of the few patients’ data that we have access.  The semi-synthetic data of the pre-surgical stage will be generated taking as input these real data and variations of the hypothetic tumor’s location and volume and possible breast densities. The pos-surgical data is simulated by a biomechanical wound healing model. 
+
+Then by using different machine learning approaches, the relation between the patient’s breast before and after the surgery can be obtained and the deformation predicted.
+
+Finally, concerning the evaluation, simulated healed breasts will be compared with the pos-surgical 3D breast models in the dataset through local and global metrics including Euclidean and Hausdorff distances.
+
+
+\chapter*{Resumo}
+
+De acordo com a Organização Mundial de Saúde, o cancro da mama é o cancro mais frequente entre indivíduos do sexo feminino. Tendo em conta todos os tratamentos actualmente disponíveis, a cirurgia é aplicada maioritariamente usando duas metodologias: Mastectomia, que resulta na remoção total da mama e não apenas do tumor; e Tratamento Conservativo do Cancro da Mama no qual apenas é removido o tumor e uma porção reduzida do tecido da mama circundante. Como esperado, a aplicação de tratamento invasivos como o caso da cirurgia leva à deformação da mama afectando a qualidade de vida dos pacientes. Desta forma, a tecnologia poderá ser utilizada de modo a melhorar a interacção entre os pacientes e médicos clínicos de modo a visualizar as possíveis deformações resultantes e o processo de cicatrização após a cirurgia com o intuito de melhorar a qualidade de vida dos pacientes.
+
+De modo a atingir o objectivo acima descrito, é necessário obter modelos de treino capazes de descrever deformações anatómicas ao longo do processo de cicatrização da mama após Tratamento Conservativo do Cancro da Mama. Para que se obtenham modelos de treino viáveis é necessário um dataset com vários modelos 3D. Assim sendo, terá de ser gerado um dataset semi-sintético com modelos 3D representando as mamas das pacientes antes e após a cirurgia. Os modelos pré-cirurgicos serão obtidos com base em informação proveniente de ressonâncias magnéticas das pacientes às quais temos acesso. A informação semi-sintética pré-cirurgica terá em conta a informação real e variações das localizações e volume hipotéticos do tumor e da possível densidade da mama. Os modelos pós-cirurgicos serão simulados com base num modelo biomecânico de cicatrização
+
+Posteriormente, através da utilização de técnicas de aprendizagem computacional, poder-se-á então obter uma relação entre os modelos da mama da paciente antes e após a cirurgia.
+
+Por último, de modo a validar os modelos de previsão, os modelos simulados serão comparados o modelo pós-cirurgico previsto usando diversas métricas como distâncias Euclidianas e de Hausdorff. 

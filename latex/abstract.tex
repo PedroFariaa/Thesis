@@ -1,0 +1,79 @@
+\chapter*{Resumo}
+
+O Resumo fornece ao leitor um sumário do conteúdo da dissertação.
+Deverá ser breve mas conter detalhe suficiente e, uma vez que é a porta
+de entrada para a dissertação, deverá dar ao leitor uma boa impressão
+inicial.
+
+Este texto inicial da dissertação é escrito no fim e resume numa
+página, sem referências externas, o tema e o contexto do trabalho, a
+motivação e os objectivos, as metodologias e técnicas empregues, os
+principais resultados alcançados e as conclusões.
+
+Este documento ilustra o formato a usar em dissertações na \Feup.
+São dados exemplos de margens, cabeçalhos, títulos, paginação, estilos
+de índices, etc. 
+São ainda dados exemplos de formatação de citações, figuras e tabelas,
+equações, referências cruzadas, lista de referências e índices.
+%Este documento não pretende exemplificar conteúdos a usar. 
+É usado texto descartável, \emph{Loren Ipsum}, para preencher a
+dissertação por forma a ilustrar os formatos.
+
+Seguem-se umas notas breves mas muito importantes sobre a versão 
+provisória e a versão final do documento. 
+A versão provisória, depois de verificada pelo orientador e de 
+corrigida em contexto pelo autor, deve ser publicada na página 
+pessoal de cada estudante/dissertação, juntamente com os dois 
+resumos, em português e em inglês; deve manter a marca da água, 
+assim como a numeração de linhas conforme aqui se demonstra.
+
+A versão definitiva, a produzir somente após a defesa, em versão 
+impressa (dois exemplares com capas próprias FEUP) e em versão 
+eletrónica (6 CDs com "rodela" própria FEUP), deve ser limpa da marca de 
+água e da numeração de linhas e deve conter a identificação, na primeira 
+página, dos elementos do júri respetivo. 
+Deve ainda, se for o caso, ser corrigida de acordo com as instruções 
+recebidas dos elementos júri.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed vehicula
+lorem commodo dui. Fusce mollis feugiat elit. Cum sociis natoque
+penatibus et magnis dis parturient montes, nascetur ridiculus
+mus. Donec eu quam. Aenean consectetuer odio quis nisi. Fusce molestie
+metus sed neque. Praesent nulla. Donec quis urna. Pellentesque
+hendrerit vulputate nunc. Donec id eros et leo ullamcorper
+placerat. Curabitur aliquam tellus et diam. 
+
+Ut tortor. Morbi eget elit. Maecenas nec risus. Sed ultricies. Sed
+scelerisque libero faucibus sem. Nullam molestie leo quis
+tellus. Donec ipsum. Nulla lobortis purus pharetra turpis. Nulla
+laoreet, arcu nec hendrerit vulputate, tortor elit eleifend turpis, et
+aliquam leo metus in dolor. Praesent sed nulla. Mauris ac augue. Cras
+ac orci. Etiam sed urna eget nulla sodales venenatis. Donec faucibus
+ante eget dui. Nam magna. Suspendisse sollicitudin est et mi. 
+
+Phasellus ullamcorper justo id risus. Nunc in leo. Mauris auctor
+lectus vitae est lacinia egestas. Nulla faucibus erat sit amet lectus
+varius semper. Praesent ultrices vehicula orci. Nam at metus. Aenean
+eget lorem nec purus feugiat molestie. Phasellus fringilla nulla ac
+risus. Aliquam elementum aliquam velit. Aenean nunc odio, lobortis id,
+dictum et, rutrum ac, ipsum. 
+
+Ut tortor. Morbi eget elit. Maecenas nec risus. Sed ultricies. Sed
+scelerisque libero faucibus sem. Nullam molestie leo quis
+tellus. Donec ipsum. 
+
+\chapter*{Abstract}
+
+According to the annual report from the World Health Organization, breast cancer is the most frequent cancer among females. Considering all the treatments, surgery is being applied mostly in two methodologies: Mastectomy, that results on removing not only tumor, but also the total breast tissue; and Breast Cancer Conservative Treatment (BCCT) when only the tumor is removed with a thin layer of healthy tissue around it. It is clear that performing invasive treatment such as surgery, will lead to impose deformations on the breast which can influence patients’ quality of life. In this way, technology can be assisted to provide a framework in order to improve the way patients interact with physicians. Enhancing this framework with the tools to visualize deformation and the healing process after the surgery can elevate patients’ quality of life.
+
+
+In order to accomplish the mentioned aim, this work focuses on obtaining training models to describe anatomical deformations during the healing process of the breast after BCCT. Therefore the current 3D scanning techniques are only able to reconstruct the external surface of the breast, we aim to use MRI data to provide adequate information to provide a closed 3D object. Correct reposition of the pectoral muscle assures that the breast’s parametric model can be reconstructed without shrinkage of its boundaries.
+
+
+The dataset being used in this research contains 3D breast models through scanning patients before and after the treatment . Each model was obtained through 3D reconstruction of patient's torso using a depth sensor. Additional information such as the tumor volume, location, and breast density (obtained via MRI and X-Ray) are provided in the dataset as well. As long as the current dataset only contains a small number of 3D breast models, machine learning methodologies are not capable of obtaining reliable training models. Therefore, one of the objectives of the proposed work is to extend the current dataset by building synthetic 3D breast models based on the available ones. A brief study of breast parametric modeling reveals that models based on superquadratics have been widely used to generate breast synthetic data. Besides, free form deformation techniques can be utilized to fulfill the requirements of breast deformation before and after surgery. However, in generating post surgery synthetic data, parameters such as the hypothetic tumor’s location and volume must be taken into consideration. 
+
+
+Then by using different machine learning approaches, the relation between the patient’s breast before and after the surgery can be obtained.  
+
+
+Finally, concerning the evaluation, simulated healed breast will be compared with the real healed 3D breast (in the dataset) through distance metrics; however, since the models are not aligned, there might be a requirement to register both data to put them in same coordinate. Assuring the alignment of data, one can claim that the smaller the distance is more similar the 3D breast models will be.

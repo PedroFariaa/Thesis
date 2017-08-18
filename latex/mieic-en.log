@@ -1,0 +1,2767 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.22)  18 AUG 2017 08:06
+entering extended mode
+**./mieic-en.tex
+(mieic-en.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+)) (feupteses.sty
+Package: feupteses 2011/07/31 1.0 
+
+Document Style `FEUP Teses' 1.0 <2011/07/31>
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/05/19 3.10 The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\courier-scaled\couriers.sty"
+Package: couriers 2004/07/10 Scaled Courier (HS) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+\c@ContinuedFloat=\count93
+) (lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count94
+\output=\toks18
+\linenoprevgraf=\count95
+\linenumbersep=\dimen121
+\linenumberwidth=\dimen122
+\c@linenumber=\count96
+\c@pagewiselinenumber=\count97
+\c@LN@truepage=\count98
+\c@internallinenumber=\count99
+\c@internallinenumbers=\count100
+\quotelinenumbersep=\dimen123
+\bframerule=\dimen124
+\bframesep=\dimen125
+\bframebox=\box26
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\draftwatermark\draftwatermark.sty"
+Package: draftwatermark 2015/02/19 1.2 Put a gray textual watermark on document
+ pages
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\everypage\everypage.sty"
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\sc@wm@hcenter=\skip43
+\sc@wm@vcenter=\skip44
+\sc@wm@fontsize=\skip45
+)
+\@vivatext=\box27
+\@supervisorstext=\box28
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/10/11 v3.9 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen126
+\Hy@linkcounter=\count101
+\Hy@pagecounter=\count102
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count103
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4374.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 4374.
+Package hyperref Info: Hyper figures ON on input line 4496.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count104
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen127
+\Fld@menulength=\count105
+\Field@Width=\dimen128
+\Fld@charsize=\dimen129
+Package hyperref Info: Hyper figures ON on input line 6356.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count106
+\c@Item=\count107
+\c@Hfootnote=\count108
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count109
+\c@bookmark@seq@number=\count110
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip55
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 487.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 487.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 487.
+
+Package hyperref Info: Option `breaklinks' set `true' on input line 487.
+Package hyperref Info: Option `linktocpage' set `true' on input line 487.
+Package hyperref Info: Option `colorlinks' set `true' on input line 487.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen130
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen131
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count111
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count112
+\leftroot@=\count113
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count114
+\DOTSCASE@=\count115
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen132
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count116
+\c@MaxMatrixCols=\count117
+\dotsspace@=\muskip11
+\c@parentequation=\count118
+\dspbrk@lvl=\count119
+\tag@help=\toks20
+\row@=\count120
+\column@=\count121
+\maxfields@=\count122
+\andhelp@=\toks21
+\eqnshift@=\dimen133
+\alignsep@=\dimen134
+\tagshift@=\dimen135
+\tagwidth@=\dimen136
+\totwidth@=\dimen137
+\lineht@=\dimen138
+\@envbody=\toks22
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count123
+\float@exts=\toks24
+\float@box=\box31
+\@float@everytoks=\toks25
+\@floatcapt=\box32
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen139
+\WF@size=\dimen140
+\c@WF@wrappedlines=\count124
+\WF@box=\box33
+\WF@everypar=\toks26
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count125
+\sf@farskip=\skip59
+\sf@captopadj=\dimen141
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
+\c@subfigure=\count126
+\c@subfigure@save=\count127
+\c@lofdepth=\count128
+\c@subtable=\count129
+\c@subtable@save=\count130
+\c@lotdepth=\count131
+\sf@top=\skip62
+\sf@bottom=\skip63
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count132
+\LTcapwidth=\dimen142
+\LT@head=\box34
+\LT@firsthead=\box35
+\LT@foot=\box36
+\LT@lastfoot=\box37
+\LT@cols=\count133
+\LT@rows=\count134
+\c@LT@tables=\count135
+\c@LT@chunks=\count136
+\LT@p@ftn=\toks27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip68
+\multirow@cntb=\count137
+\multirow@dima=\skip69
+\bigstrutjot=\dimen143
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2017/07/14 v0.5j Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count138
+\calc@Bcount=\count139
+\calc@Adimen=\dimen144
+\calc@Bdimen=\dimen145
+\calc@Askip=\skip70
+\calc@Bskip=\skip71
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count140
+\calc@Cskip=\skip72
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen146
+\AM@pageheight=\dimen147
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2017/07/14 v0.5j Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box38
+\AM@global@opts=\toks28
+\AM@toc@title=\toks29
+\c@AM@survey=\count141
+\AM@templatesizebox=\box39
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count142
+\lst@gtempboxa=\box40
+\lst@token=\toks30
+\lst@length=\count143
+\lst@currlwidth=\dimen148
+\lst@column=\count144
+\lst@pos=\count145
+\lst@lostspace=\dimen149
+\lst@width=\dimen150
+\lst@newlines=\count146
+\lst@lineno=\count147
+\lst@maxwidth=\dimen151
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count148
+\lst@skipnumbers=\count149
+\lst@framebox=\box41
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+\@input{mymacros.aux}
+\openout2 = `mymacros.aux'.
+
+(mymacros.tex) (mieic-en.aux (abstract_en.aux) (acknows_en.aux) (quote.aux)
+(abbrevs_en.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux
+
+LaTeX Warning: Label `tab:user stories' multiply defined.
+
+) (chapter5.aux) (chapter6.aux) (chapter7.aux) (appendix1.aux))
+\openout1 = `mieic-en.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 98.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot twoside 
+* h-part:(L,W,R)=(99.58464pt, 426.79135pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=661.23584pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-15.36449pt
+* \headheight=15.5pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count150
+\scratchdimen=\dimen152
+\scratchbox=\box42
+\nofMPsegments=\count151
+\nofMParguments=\count152
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count153
+\MPscratchDim=\dimen153
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
+\everyMPtoPDFconversion=\toks32
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box43
+Package hyperref Info: Link coloring ON on input line 98.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count156
+)
+LaTeX Info: Redefining \ref on input line 98.
+LaTeX Info: Redefining \pageref on input line 98.
+LaTeX Info: Redefining \nameref on input line 98.
+
+(mieic-en.out) (mieic-en.out)
+\@outlinefile=\write3
+\openout3 = `mieic-en.out'.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\c@lstlisting=\count157
+\@crestbox=\box44
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 135.
+LaTeX Font Info:    Font shape `T1/ptm/bx/sc' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/sc' tried instead on input line 135.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 135.
+
+<figures/uporto-feup.pdf, id=279, 338.26375pt x 126.4725pt>
+File: figures/uporto-feup.pdf Graphic file (type pdf)
+
+<use figures/uporto-feup.pdf>
+Package pdftex.def Info: figures/uporto-feup.pdf used on input line 135.
+(pdftex.def)             Requested size: 204.85983pt x 76.59618pt.
+ [-3{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+
+
+ <./figures/uporto-feup.pdf>] [-2
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 135.
+ [-1] [0
+
+]
+\openout2 = `abstract_en.aux'.
+
+ (abstract_en.tex [1
+
+
+] [2
+
+])
+[3]
+\openout2 = `acknows_en.aux'.
+
+ (acknows_en.tex [4
+
+
+
+]) [5]
+\openout2 = `quote.aux'.
+
+ (quote.tex [6
+
+
+
+]) [7] [8
+
+
+] (mieic-en.toc
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 3.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 3.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+ [9
+
+])
+\tf@toc=\write4
+\openout4 = `mieic-en.toc'.
+
+ [10]
+(mieic-en.lof
+Overfull \hbox (11.3911pt too wide) in paragraph at lines 65--65
+ [][] []\T1/ptm/m/n/10.95 Comparison be-tween pre-surgical, pos-surgical and pr
+e-dicted through a naive method 
+ []
+
+
+Overfull \hbox (13.40552pt too wide) in paragraph at lines 68--68
+ [][] []\T1/ptm/m/n/10.95 Comparison be-tween pre-surgical, pos-surgical and pr
+e-dicted breast's mod-els through 
+ []
+
+[11
+
+
+])
+\tf@lof=\write5
+\openout5 = `mieic-en.lof'.
+
+ [12] (mieic-en.lot [13
+
+
+])
+\tf@lot=\write6
+\openout6 = `mieic-en.lot'.
+
+ [14]
+\openout2 = `abbrevs_en.aux'.
+
+ (abbrevs_en.tex) [15
+
+
+] [16
+
+
+]
+\openout2 = `chapter1.aux'.
+
+ (chapter1.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 1.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Try loading font information for T1+pcrs on input line 2.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\courier-scaled\t1pcrs.fd"
+File: t1pcrs.fd 2004/07/09 scalable font definitions for T1/pcrs.
+)
+LaTeX Font Info:    Font shape `T1/pcrs/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 2.
+ [1
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 26.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+) [2] [3]
+\openout2 = `chapter2.aux'.
+
+
+(chapter2.tex [4
+
+
+
+]
+Chapter 2.
+<figures/breast_anat.png, id=603, 563.10374pt x 441.14813pt>
+File: figures/breast_anat.png Graphic file (type png)
+
+<use figures/breast_anat.png>
+Package pdftex.def Info: figures/breast_anat.png used on input line 15.
+(pdftex.def)             Requested size: 341.43437pt x 267.49117pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+<figures/breast_regions.jpg, id=620, 645.41125pt x 647.41875pt>
+File: figures/breast_regions.jpg Graphic file (type jpg)
+
+<use figures/breast_regions.jpg>
+Package pdftex.def Info: figures/breast_regions.jpg used on input line 30.
+(pdftex.def)             Requested size: 213.39568pt x 214.05388pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./figures/breast_anat.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[][][][][]$\T1/pcrs/m/n/9 https : / / www . womenshealth . gov / publications /
+ our-[]publications / fact-[]sheet /
+ []
+
+<figures/inc_stage_breast_0.png, id=637, 652.4375pt x 421.575pt>
+File: figures/inc_stage_breast_0.png Graphic file (type png)
+
+<use figures/inc_stage_breast_0.png>
+Package pdftex.def Info: figures/inc_stage_breast_0.png used on input line 46.
+(pdftex.def)             Requested size: 362.77525pt x 234.4143pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[][][][][]$\T1/pcrs/m/n/9 http : / / www . cancerresearchuk . org / health-[]pr
+ofessional / cancer-[]statistics /
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./figures/breast_regions.jpg>]
+Underfull \vbox (badness 2401) has occurred while \output is active []
+
+ [8 <./figures/inc_stage_breast_0.png>] [9]
+<figures/mastectomy.jpg, id=675, 289.08pt x 361.35pt>
+File: figures/mastectomy.jpg Graphic file (type jpg)
+
+<use figures/mastectomy.jpg>
+Package pdftex.def Info: figures/mastectomy.jpg used on input line 94.
+(pdftex.def)             Requested size: 142.26378pt x 177.82945pt.
+
+<figures/lumpectomy.jpg, id=676, 289.08pt x 361.35pt>
+File: figures/lumpectomy.jpg Graphic file (type jpg)
+
+<use figures/lumpectomy.jpg>
+Package pdftex.def Info: figures/lumpectomy.jpg used on input line 96.
+(pdftex.def)             Requested size: 142.26378pt x 177.82945pt.
+ [10 <./figures/mastectomy.jpg> <./figures/lumpectomy.jpg>]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 114.
+ [11]) [12]
+\openout2 = `chapter3.aux'.
+
+ (chapter3.tex
+Chapter 3.
+[13
+
+
+
+] <figures/superellipsoid.png, id=726, 622.325pt x 293.095pt>
+File: figures/superellipsoid.png Graphic file (type png)
+
+<use figures/superellipsoid.png>
+Package pdftex.def Info: figures/superellipsoid.png used on input line 31.
+(pdftex.def)             Requested size: 362.77525pt x 170.85835pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./figures/superellipsoid.png>] [16]
+<figures/FFD_BB.png, id=767, 321.2pt x 329.23pt>
+File: figures/FFD_BB.png Graphic file (type png)
+ <use figures/FFD_BB.png>
+Package pdftex.def Info: figures/FFD_BB.png used on input line 123.
+(pdftex.def)             Requested size: 216.81pt x 222.23572pt.
+
+<figures/FFD_applied.png, id=768, 321.86917pt x 329.23pt>
+File: figures/FFD_applied.png Graphic file (type png)
+
+<use figures/FFD_applied.png>
+Package pdftex.def Info: figures/FFD_applied.png used on input line 124.
+(pdftex.def)             Requested size: 216.81pt x 221.77354pt.
+
+Overfull \hbox (30.82867pt too wide) in paragraph at lines 122--126
+[][] 
+ []
+
+[17 <./figures/FFD_BB.png> <./figures/FFD_applied.png>]
+<figures/FE.png, id=789, 1416.29124pt x 461.725pt>
+File: figures/FE.png Graphic file (type png)
+ <use figures/FE.png>
+Package pdftex.def Info: figures/FE.png used on input line 147.
+(pdftex.def)             Requested size: 362.77525pt x 118.26318pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+<figures/oneplus.png, id=800, 724.20563pt x 597.73312pt>
+File: figures/oneplus.png Graphic file (type png)
+
+<use figures/oneplus.png>
+Package pdftex.def Info: figures/oneplus.png used on input line 160.
+(pdftex.def)             Requested size: 362.77525pt x 299.42218pt.
+
+Underfull \vbox (badness 2772) has occurred while \output is active []
+
+ [19 <./figures/FE.png> <./figures/oneplus.png>] [20]
+<figures/crisalix.png, id=816, 1927.2pt x 924.45375pt>
+File: figures/crisalix.png Graphic file (type png)
+
+<use figures/crisalix.png>
+Package pdftex.def Info: figures/crisalix.png used on input line 208.
+(pdftex.def)             Requested size: 213.39568pt x 102.35321pt.
+
+<figures/sculpmydream.png, id=822, 1096.095pt x 620.3175pt>
+File: figures/sculpmydream.png Graphic file (type png)
+
+<use figures/sculpmydream.png>
+Package pdftex.def Info: figures/sculpmydream.png used on input line 222.
+(pdftex.def)             Requested size: 192.0548pt x 108.6897pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <./figures/crisalix.png>] <figures/threeaxis.png, id=835, 1493.58pt x 924.
+45375pt>
+File: figures/threeaxis.png Graphic file (type png)
+
+<use figures/threeaxis.png>
+Package pdftex.def Info: figures/threeaxis.png used on input line 235.
+(pdftex.def)             Requested size: 192.0548pt x 118.87134pt.
+) [22 <./figures/sculpmydream.png> <./figures/threeaxis.png>] [23]
+\openout2 = `chapter4.aux'.
+
+ (chapter4.tex [24
+
+
+
+]
+Chapter 4.
+[25]
+Overfull \hbox (30.1698pt too wide) in alignment at lines 68--75
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (30.1698pt too wide) in alignment at lines 75--77
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]|\T1/ptm/m/n/10.95 Model Vi-su-al-iza-
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 83--83
+[]|\T1/ptm/m/n/10.95 Zoom in / Zoom
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 85--85
+[]|\T1/ptm/m/n/10.95 Define the tu-mor
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 86--86
+[]|\T1/ptm/m/n/10.95 Define the tu-mor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]|\T1/ptm/m/n/10.95 Draw the tu-mor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\T1/ptm/m/n/10.95 Draw the Ex-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\T1/ptm/m/n/10.95 View the tu-mor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[]|\T1/ptm/m/n/10.95 View the breast
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]|\T1/ptm/m/n/10.95 View the tu-mor
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 94--94
+[]|\T1/ptm/m/n/10.95 View the Ex-cised
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]|\T1/ptm/m/n/10.95 View Ex-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T1/ptm/m/n/10.95 Export ex-ci-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/ptm/m/n/10.95 and tu-mor point
+ []
+
+
+Overfull \hbox (30.1698pt too wide) in alignment at lines 77--97
+ [] [] [] [] 
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]|\T1/ptm/m/n/10.95 Hide the tu-mor
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 101--101
+[]|\T1/ptm/m/n/10.95 Hide the ex-ci-sion
+ []
+
+
+Overfull \hbox (30.1698pt too wide) in alignment at lines 97--103
+ [] [] [] [] 
+ []
+
+[27] <figures/Use_Cases.png, id=874, 645.41125pt x 774.895pt>
+File: figures/Use_Cases.png Graphic file (type png)
+
+<use figures/Use_Cases.png>
+Package pdftex.def Info: figures/Use_Cases.png used on input line 112.
+(pdftex.def)             Requested size: 298.75264pt x 358.69075pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28]
+Underfull \vbox (badness 8038) has occurred while \output is active []
+
+ [29 <./figures/Use_Cases.png>] <figures/tool_flow_2.png, id=886, 799.98875pt x
+ 196.735pt>
+File: figures/tool_flow_2.png Graphic file (type png)
+
+<use figures/tool_flow_2.png>
+Package pdftex.def Info: figures/tool_flow_2.png used on input line 146.
+(pdftex.def)             Requested size: 426.79135pt x 104.95947pt.
+ [30 <./figures/tool_flow_2.png>] [31]
+<figures/initial_r2.png, id=920, 1499.6025pt x 902.37125pt>
+File: figures/initial_r2.png Graphic file (type png)
+
+<use figures/initial_r2.png>
+Package pdftex.def Info: figures/initial_r2.png used on input line 194.
+(pdftex.def)             Requested size: 216.81pt x 130.46182pt.
+
+<figures/point_selection_r2.png, id=921, 1407.2575pt x 769.87625pt>
+File: figures/point_selection_r2.png Graphic file (type png)
+
+<use figures/point_selection_r2.png>
+Package pdftex.def Info: figures/point_selection_r2.png used on input line 194.
+
+(pdftex.def)             Requested size: 216.81pt x 118.60124pt.
+
+<figures/segmentation_r2.png, id=922, 1245.65375pt x 745.78625pt>
+File: figures/segmentation_r2.png Graphic file (type png)
+
+<use figures/segmentation_r2.png>
+Package pdftex.def Info: figures/segmentation_r2.png used on input line 194.
+(pdftex.def)             Requested size: 216.81pt x 129.79762pt.
+
+<figures/warning_r2.png, id=923, 1501.61pt x 900.36375pt>
+File: figures/warning_r2.png Graphic file (type png)
+
+<use figures/warning_r2.png>
+Package pdftex.def Info: figures/warning_r2.png used on input line 194.
+(pdftex.def)             Requested size: 216.81pt x 129.993pt.
+
+<figures/tumor_def_r2.png, id=924, 1211.52625pt x 729.72626pt>
+File: figures/tumor_def_r2.png Graphic file (type png)
+
+<use figures/tumor_def_r2.png>
+Package pdftex.def Info: figures/tumor_def_r2.png used on input line 194.
+(pdftex.def)             Requested size: 216.81pt x 130.58789pt.
+
+<figures/cylinder_def_r2.png, id=925, 1173.38374pt x 704.6325pt>
+File: figures/cylinder_def_r2.png Graphic file (type png)
+
+<use figures/cylinder_def_r2.png>
+Package pdftex.def Info: figures/cylinder_def_r2.png used on input line 194.
+(pdftex.def)             Requested size: 216.81pt x 130.1937pt.
+
+Overfull \hbox (79.60472pt too wide) in paragraph at lines 194--195
+ [][] 
+ []
+
+<figures/loaded_r2.png, id=926, 1452.42625pt x 870.25125pt>
+File: figures/loaded_r2.png Graphic file (type png)
+
+<use figures/loaded_r2.png>
+Package pdftex.def Info: figures/loaded_r2.png used on input line 201.
+(pdftex.def)             Requested size: 426.79135pt x 255.71269pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32 <./figures/initial_r2.png> <./figures/point_selection_r2.png> <./figures/s
+egmentation_r2.png> <./figures/warning_r2.png> <./figures/tumor_def_r2.png> <./
+figures/cylinder_def_r2.png>]) [33 <./figures/loaded_r2.png>]
+\openout2 = `chapter5.aux'.
+
+ (chapter5.tex [34
+
+
+
+]
+Chapter 5.
+<figures/method_FC.jpg, id=949, 958.58125pt x 143.53625pt>
+File: figures/method_FC.jpg Graphic file (type jpg)
+
+<use figures/method_FC.jpg>
+Package pdftex.def Info: figures/method_FC.jpg used on input line 12.
+(pdftex.def)             Requested size: 362.77525pt x 54.32094pt.
+ [35 <./figures/method_FC.jpg>]
+<figures/data_WF.png, id=959, 1302.8675pt x 93.68333pt>
+File: figures/data_WF.png Graphic file (type png)
+
+<use figures/data_WF.png>
+Package pdftex.def Info: figures/data_WF.png used on input line 33.
+(pdftex.def)             Requested size: 426.79135pt x 30.6883pt.
+
+<figures/latissimus.jpg, id=962, 847.165pt x 400.49625pt>
+File: figures/latissimus.jpg Graphic file (type jpg)
+
+<use figures/latissimus.jpg>
+Package pdftex.def Info: figures/latissimus.jpg used on input line 49.
+(pdftex.def)             Requested size: 362.77525pt x 171.50114pt.
+
+<figures/pre-model.png, id=963, 849.1725pt x 778.91pt>
+File: figures/pre-model.png Graphic file (type png)
+
+<use figures/pre-model.png>
+Package pdftex.def Info: figures/pre-model.png used on input line 58.
+(pdftex.def)             Requested size: 192.0548pt x 176.16235pt.
+ [36 <./figures/data_WF.png>]
+<figures/marge.png, id=971, 1445.4pt x 813.0375pt>
+File: figures/marge.png Graphic file (type png)
+ <use figures/marge.png>
+Package pdftex.def Info: figures/marge.png used on input line 69.
+(pdftex.def)             Requested size: 298.75264pt x 168.05083pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37 <./figures/latissimus.jpg> <./figures/pre-model.png>]
+<figures/prone.png, id=982, 514.58917pt x 643.73833pt>
+File: figures/prone.png Graphic file (type png)
+ <use figures/prone.png>
+Package pdftex.def Info: figures/prone.png used on input line 92.
+(pdftex.def)             Requested size: 144.54pt x 180.81522pt.
+
+<figures/prone_l.png, id=983, 514.58917pt x 643.73833pt>
+File: figures/prone_l.png Graphic file (type png)
+
+<use figures/prone_l.png>
+Package pdftex.def Info: figures/prone_l.png used on input line 92.
+(pdftex.def)             Requested size: 144.54pt x 180.81522pt.
+
+<figures/unloaded.png, id=984, 771.88374pt x 965.6075pt>
+File: figures/unloaded.png Graphic file (type png)
+
+<use figures/unloaded.png>
+Package pdftex.def Info: figures/unloaded.png used on input line 92.
+(pdftex.def)             Requested size: 144.54pt x 180.81522pt.
+
+<figures/unloaded_l.png, id=985, 771.88374pt x 965.6075pt>
+File: figures/unloaded_l.png Graphic file (type png)
+
+<use figures/unloaded_l.png>
+Package pdftex.def Info: figures/unloaded_l.png used on input line 92.
+(pdftex.def)             Requested size: 144.54pt x 180.81522pt.
+
+<figures/supine.png, id=986, 514.58917pt x 643.73833pt>
+File: figures/supine.png Graphic file (type png)
+
+<use figures/supine.png>
+Package pdftex.def Info: figures/supine.png used on input line 92.
+(pdftex.def)             Requested size: 144.54pt x 180.81522pt.
+
+<figures/supine_l.png, id=987, 513.92pt x 643.73833pt>
+File: figures/supine_l.png Graphic file (type png)
+
+<use figures/supine_l.png>
+Package pdftex.def Info: figures/supine_l.png used on input line 92.
+(pdftex.def)             Requested size: 144.54pt x 181.05095pt.
+
+<figures/upright.png, id=988, 513.92pt x 643.73833pt>
+File: figures/upright.png Graphic file (type png)
+
+<use figures/upright.png>
+Package pdftex.def Info: figures/upright.png used on input line 92.
+(pdftex.def)             Requested size: 144.54pt x 181.05095pt.
+
+<figures/upright_l.png, id=989, 513.92pt x 643.73833pt>
+File: figures/upright_l.png Graphic file (type png)
+
+<use figures/upright_l.png>
+Package pdftex.def Info: figures/upright_l.png used on input line 92.
+(pdftex.def)             Requested size: 144.54pt x 181.05095pt.
+
+<figures/quadrants.png, id=992, 1545.775pt x 754.82pt>
+File: figures/quadrants.png Graphic file (type png)
+
+<use figures/quadrants.png>
+Package pdftex.def Info: figures/quadrants.png used on input line 111.
+(pdftex.def)             Requested size: 234.73654pt x 114.62326pt.
+ [38 <./figures/marge.png>]
+
+LaTeX Warning: Text page 39 contains only floats.
+
+
+Underfull \vbox (badness 1874) has occurred while \output is active []
+
+ [39 <./figures/prone.png> <./figures/prone_l.png> <./figures/unloaded.png> <./
+figures/unloaded_l.png> <./figures/supine.png> <./figures/supine_l.png> <./figu
+res/upright.png> <./figures/upright_l.png>] [40 <./figures/quadrants.png>]
+<figures/WH_example_frt.png, id=1031, 586.44093pt x 620.3175pt>
+File: figures/WH_example_frt.png Graphic file (type png)
+
+<use figures/WH_example_frt.png>
+Package pdftex.def Info: figures/WH_example_frt.png used on input line 148.
+(pdftex.def)             Requested size: 128.03308pt x 128.03671pt.
+
+<figures/WH_example_lat.png, id=1032, 529.22719pt x 618.81187pt>
+File: figures/WH_example_lat.png Graphic file (type png)
+
+<use figures/WH_example_lat.png>
+Package pdftex.def Info: figures/WH_example_lat.png used on input line 150.
+(pdftex.def)             Requested size: 128.0346pt x 128.03754pt.
+
+<figures/WH_example_3d.png, id=1033, 590.205pt x 624.83438pt>
+File: figures/WH_example_3d.png Graphic file (type png)
+
+<use figures/WH_example_3d.png>
+Package pdftex.def Info: figures/WH_example_3d.png used on input line 152.
+(pdftex.def)             Requested size: 284.52756pt x 301.22328pt.
+
+Underfull \vbox (badness 4846) has occurred while \output is active []
+
+ [41 <./figures/WH_example_frt.png> <./figures/WH_example_lat.png> <./figures/W
+H_example_3d.png>] <figures/combinations.jpg, id=1046, 1034.86626pt x 505.89pt>
+File: figures/combinations.jpg Graphic file (type jpg)
+
+<use figures/combinations.jpg>
+Package pdftex.def Info: figures/combinations.jpg used on input line 167.
+(pdftex.def)             Requested size: 341.43437pt x 166.90561pt.
+
+<figures/TLD_WF-01.jpg, id=1052, 1224.575pt x 631.35875pt>
+File: figures/TLD_WF-01.jpg Graphic file (type jpg)
+
+<use figures/TLD_WF-01.jpg>
+Package pdftex.def Info: figures/TLD_WF-01.jpg used on input line 178.
+(pdftex.def)             Requested size: 426.79135pt x 220.03476pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[42 <./figures/combinations.jpg>]
+<figures/region_analysis.png, id=1060, 1264.725pt x 729.47531pt>
+File: figures/region_analysis.png Graphic file (type png)
+
+<use figures/region_analysis.png>
+Package pdftex.def Info: figures/region_analysis.png used on input line 197.
+(pdftex.def)             Requested size: 512.14832pt x 295.40248pt.
+
+Overfull \hbox (85.35696pt too wide) in paragraph at lines 196--198
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/size_analysis.png, id=1061, 1264.725pt x 729.47531pt>
+File: figures/size_analysis.png Graphic file (type png)
+
+<use figures/size_analysis.png>
+Package pdftex.def Info: figures/size_analysis.png used on input line 206.
+(pdftex.def)             Requested size: 512.14832pt x 295.40248pt.
+
+Overfull \hbox (85.35696pt too wide) in paragraph at lines 205--207
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/acr_analysis.png, id=1062, 1264.725pt x 729.47531pt>
+File: figures/acr_analysis.png Graphic file (type png)
+
+<use figures/acr_analysis.png>
+Package pdftex.def Info: figures/acr_analysis.png used on input line 215.
+(pdftex.def)             Requested size: 512.14832pt x 295.40248pt.
+
+Overfull \hbox (85.35696pt too wide) in paragraph at lines 214--216
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [43 <./figures/TLD_WF-01.jpg>] [44 <./figures/region_analysis.png (PNG copy)>]
+
+<figures/front.png, id=1074, 1129.97156pt x 730.22812pt>
+File: figures/front.png Graphic file (type png)
+
+<use figures/front.png>
+Package pdftex.def Info: figures/front.png used on input line 244.
+(pdftex.def)             Requested size: 213.39568pt x 137.89796pt.
+
+<figures/lateral.png, id=1075, 1129.97156pt x 730.22812pt>
+File: figures/lateral.png Graphic file (type png)
+
+<use figures/lateral.png>
+Package pdftex.def Info: figures/lateral.png used on input line 245.
+(pdftex.def)             Requested size: 213.39568pt x 137.89796pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 243--247
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[][][][][]$\T1/pcrs/m/n/9 http : / / imaging . mrc-[]cbu . cam . ac . uk / stat
+swiki / FAQ / contint ? action = AttachFile & do =
+ []
+
+<figures/left2.png, id=1079, 454.69875pt x 310.15875pt>
+File: figures/left2.png Graphic file (type png)
+
+<use figures/left2.png>
+Package pdftex.def Info: figures/left2.png used on input line 263.
+(pdftex.def)             Requested size: 213.39568pt x 145.56166pt.
+
+<figures/reflected2.png, id=1080, 454.69875pt x 310.15875pt>
+File: figures/reflected2.png Graphic file (type png)
+
+<use figures/reflected2.png>
+Package pdftex.def Info: figures/reflected2.png used on input line 264.
+(pdftex.def)             Requested size: 213.39568pt x 145.56166pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 262--266
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45 <./figures/size_analysis.png (PNG copy)>]
+Overfull \hbox (4.95447pt too wide) in paragraph at lines 280--280
+[][]| 
+ []
+
+
+Overfull \vbox (13.59999pt too high) detected at line 283
+ []
+
+
+Overfull \vbox (108.79993pt too high) detected at line 283
+ []
+
+
+Overfull \hbox (3.14525pt too wide) in paragraph at lines 283--283
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+[]\T1/ptm/m/n/10.95 Euclidean dis-tance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]\T1/ptm/m/n/10.95 Breast's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]\T1/ptm/m/n/10.95 Pre-surgical breast's
+ []
+
+
+Overfull \hbox (4.98476pt too wide) in paragraph at lines 291--291
+[][]| 
+ []
+
+
+Overfull \vbox (13.59999pt too high) detected at line 295
+ []
+
+
+Overfull \hbox (62.22633pt too wide) in paragraph at lines 277--306
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 22.16397pt on input line 308.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46 <./figures/acr_analysis.png (PNG copy)> <./figures/front.png> <./figures/la
+teral.png>] [47 <./figures/left2.png> <./figures/reflected2.png>]
+<figures/NN.png, id=1112, 249.93375pt x 223.83624pt>
+File: figures/NN.png Graphic file (type png)
+ <use figures/NN.png>
+Package pdftex.def Info: figures/NN.png used on input line 345.
+(pdftex.def)             Requested size: 213.39568pt x 191.11897pt.
+
+[48 <./figures/NN.png>] <figures/RF.png, id=1127, 604.2575pt x 450.68375pt>
+File: figures/RF.png Graphic file (type png)
+
+<use figures/RF.png>
+Package pdftex.def Info: figures/RF.png used on input line 365.
+(pdftex.def)             Requested size: 298.75264pt x 222.82437pt.
+ [49 <./figures/RF.png>] [50] [51] [52]) [53] [54]
+\openout2 = `chapter6.aux'.
+
+
+(chapter6.tex
+Chapter 6.
+[55
+
+
+
+]
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 20--30
+ [][] 
+ []
+
+<figures/naive1_102_cut.png, id=1201, 353.82187pt x 571.38469pt>
+File: figures/naive1_102_cut.png Graphic file (type png)
+
+<use figures/naive1_102_cut.png>
+Package pdftex.def Info: figures/naive1_102_cut.png used on input line 54.
+(pdftex.def)             Requested size: 134.4403pt x 217.111pt.
+
+<figures/naive1_200_cut.png, id=1202, 333.49594pt x 593.21625pt>
+File: figures/naive1_200_cut.png Graphic file (type png)
+
+<use figures/naive1_200_cut.png>
+Package pdftex.def Info: figures/naive1_200_cut.png used on input line 55.
+(pdftex.def)             Requested size: 128.0387pt x 227.75986pt.
+
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 66--76
+ [][] 
+ []
+
+<figures/naive2_102_cut.png, id=1208, 471.7625pt x 761.84625pt>
+File: figures/naive2_102_cut.png Graphic file (type png)
+
+<use figures/naive2_102_cut.png>
+Package pdftex.def Info: figures/naive2_102_cut.png used on input line 100.
+(pdftex.def)             Requested size: 134.4403pt x 217.10518pt.
+
+<figures/naive2_200_cut.png, id=1209, 444.66125pt x 790.955pt>
+File: figures/naive2_200_cut.png Graphic file (type png)
+
+<use figures/naive2_200_cut.png>
+Package pdftex.def Info: figures/naive2_200_cut.png used on input line 101.
+(pdftex.def)             Requested size: 128.0387pt x 227.75383pt.
+ [56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./figures/naive1_102_cut.png> <./figures/naive1_200_cut.png>]
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 124--134
+ [][] 
+ []
+
+
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 157--167
+ [][] 
+ []
+
+
+Overfull \hbox (60.23634pt too wide) in paragraph at lines 187--187
+[][][][][]$\T1/pcrs/m/n/9 http : / / machinelearningmastery . com / tuning-[]ma
+chine-[]learning-[]models-[]using-[]the-[]caret-[]r-[]package/$[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[][][][][]$\T1/pcrs/m/n/9 https : / / www . rdocumentation . org / packages / r
+andomForest / versions / 4 . 6-[]12 / topics /
+ []
+
+[58 <./figures/naive2_102_cut.png> <./figures/naive2_200_cut.png>] [59]
+<figures/visual_pat1.jpg, id=1247, 238.0092pt x 327.3831pt>
+File: figures/visual_pat1.jpg Graphic file (type jpg)
+
+<use figures/visual_pat1.jpg>
+Package pdftex.def Info: figures/visual_pat1.jpg used on input line 229.
+(pdftex.def)             Requested size: 216.81pt x 298.2338pt.
+
+<figures/visual_pat2.jpg, id=1248, 238.0092pt x 327.3831pt>
+File: figures/visual_pat2.jpg Graphic file (type jpg)
+
+<use figures/visual_pat2.jpg>
+Package pdftex.def Info: figures/visual_pat2.jpg used on input line 229.
+(pdftex.def)             Requested size: 216.81pt x 298.2338pt.
+
+<figures/visual_pat3.jpg, id=1249, 238.0092pt x 327.3831pt>
+File: figures/visual_pat3.jpg Graphic file (type jpg)
+
+<use figures/visual_pat3.jpg>
+Package pdftex.def Info: figures/visual_pat3.jpg used on input line 229.
+(pdftex.def)             Requested size: 216.81pt x 298.2338pt.
+
+<figures/visual_pat4.jpg, id=1250, 238.0092pt x 327.3831pt>
+File: figures/visual_pat4.jpg Graphic file (type jpg)
+
+<use figures/visual_pat4.jpg>
+Package pdftex.def Info: figures/visual_pat4.jpg used on input line 229.
+(pdftex.def)             Requested size: 216.81pt x 298.2338pt.
+
+<figures/visual_pat5.jpg, id=1251, 238.0092pt x 327.3831pt>
+File: figures/visual_pat5.jpg Graphic file (type jpg)
+
+<use figures/visual_pat5.jpg>
+Package pdftex.def Info: figures/visual_pat5.jpg used on input line 229.
+(pdftex.def)             Requested size: 216.81pt x 298.2338pt.
+
+<figures/visual_pat6.jpg, id=1252, 238.0092pt x 327.3831pt>
+File: figures/visual_pat6.jpg Graphic file (type jpg)
+
+<use figures/visual_pat6.jpg>
+Package pdftex.def Info: figures/visual_pat6.jpg used on input line 229.
+(pdftex.def)             Requested size: 216.81pt x 298.2338pt.
+
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 238--248
+ [][] 
+ []
+
+
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 272--282
+ [][] 
+ []
+
+
+Underfull \vbox (badness 7012) has occurred while \output is active []
+
+ [60]
+
+LaTeX Warning: Text page 61 contains only floats.
+
+[61 <./figures/visual_pat1.jpg> <./figures/visual_pat2.jpg> <./figures/visual_p
+at3.jpg> <./figures/visual_pat4.jpg> <./figures/visual_pat5.jpg> <./figures/vis
+ual_pat6.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+<figures/rfe.jpeg, id=1277, 526.21594pt x 319.1925pt>
+File: figures/rfe.jpeg Graphic file (type jpg)
+ <use figures/rfe.jpeg>
+Package pdftex.def Info: figures/rfe.jpeg used on input line 314.
+(pdftex.def)             Requested size: 384.1096pt x 233.00371pt.
+
+[63 <./figures/rfe.jpeg>]
+<figures/rf_vs_mlp.png, id=1284, 701.62125pt x 425.59pt>
+File: figures/rf_vs_mlp.png Graphic file (type png)
+
+<use figures/rf_vs_mlp.png>
+Package pdftex.def Info: figures/rf_vs_mlp.png used on input line 325.
+(pdftex.def)             Requested size: 426.79135pt x 258.88867pt.
+
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 342--352
+ [][] 
+ []
+
+
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 377--387
+ [][] 
+ []
+
+[64 <./figures/rf_vs_mlp.png>] [65]
+<figures/disp_x2.jpg, id=1301, 13942.0875pt x 7203.91376pt>
+File: figures/disp_x2.jpg Graphic file (type jpg)
+
+<use figures/disp_x2.jpg>
+Package pdftex.def Info: figures/disp_x2.jpg used on input line 418.
+(pdftex.def)             Requested size: 231.26378pt x 119.48601pt.
+
+<figures/disp_y2.jpg, id=1302, 13942.0875pt x 7203.91376pt>
+File: figures/disp_y2.jpg Graphic file (type jpg)
+
+<use figures/disp_y2.jpg>
+Package pdftex.def Info: figures/disp_y2.jpg used on input line 418.
+(pdftex.def)             Requested size: 231.26378pt x 119.48601pt.
+
+<figures/disp_z2.jpg, id=1303, 13942.0875pt x 7203.91376pt>
+File: figures/disp_z2.jpg Graphic file (type jpg)
+
+<use figures/disp_z2.jpg>
+Package pdftex.def Info: figures/disp_z2.jpg used on input line 418.
+(pdftex.def)             Requested size: 231.26378pt x 119.48601pt.
+
+<figures/all_disp_opac2.jpg, id=1304, 13942.0875pt x 7203.91376pt>
+File: figures/all_disp_opac2.jpg Graphic file (type jpg)
+
+<use figures/all_disp_opac2.jpg>
+Package pdftex.def Info: figures/all_disp_opac2.jpg used on input line 418.
+(pdftex.def)             Requested size: 231.26378pt x 119.48601pt.
+
+Overfull \hbox (62.4737pt too wide) in paragraph at lines 418--419
+ [][] 
+ []
+
+[66 <./figures/disp_x2.jpg> <./figures/disp_y2.jpg> <./figures/disp_z2.jpg> <./
+figures/all_disp_opac2.jpg>]
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 432--442
+ [][] 
+ []
+
+
+Overfull \hbox (55.1796pt too wide) in paragraph at lines 466--476
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+<figures/heatmap_1.png, id=1325, 444.66125pt x 790.955pt>
+File: figures/heatmap_1.png Graphic file (type png)
+
+<use figures/heatmap_1.png>
+Package pdftex.def Info: figures/heatmap_1.png used on input line 1199.
+(pdftex.def)             Requested size: 252.94499pt x 449.9318pt.
+
+<figures/heatmap_2.png, id=1326, 444.66125pt x 790.955pt>
+File: figures/heatmap_2.png Graphic file (type png)
+
+<use figures/heatmap_2.png>
+Package pdftex.def Info: figures/heatmap_2.png used on input line 1199.
+(pdftex.def)             Requested size: 252.94499pt x 449.9318pt.
+ [68]) [69 <./figures/heatmap_1.png> <./figures/heatmap_2.png>]
+\openout2 = `chapter7.aux'.
+
+ (chapter7.tex [70
+
+
+
+]
+Chapter 7.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 11.
+
+[71]) [72] (mieic-en.bbl [73
+
+
+
+] [74]
+Underfull \hbox (badness 4686) in paragraph at lines 184--191
+[]\T1/ptm/m/n/10.95 Alberto (Dept. of Math-e-mat-ics Or-tiz, Com-puter Sci-ence
+ / Uni-ver-sity
+ []
+
+[75]) [76]
+\openout2 = `appendix1.aux'.
+
+ (appendix1.tex
+Appendix A.
+<appendixA.pdf, id=1390, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf>
+Package pdftex.def Info: appendixA.pdf used on input line 7.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf>
+Package pdftex.def Info: appendixA.pdf used on input line 7.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+ <appendixA.pdf, id=1393, page=1, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 1>
+Package pdftex.def Info: appendixA.pdf, page1 used on input line 7.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 1>
+Package pdftex.def Info: appendixA.pdf, page1 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [77
+
+
+]
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 1>
+Package pdftex.def Info: appendixA.pdf, page1 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 1>
+Package pdftex.def Info: appendixA.pdf, page1 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 1>
+Package pdftex.def Info: appendixA.pdf, page1 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [78 <./appendixA.pdf>]
+<appendixA.pdf, id=1533, page=2, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 2>
+Package pdftex.def Info: appendixA.pdf, page2 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 2>
+Package pdftex.def Info: appendixA.pdf, page2 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 2>
+Package pdftex.def Info: appendixA.pdf, page2 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [79 <./appendixA.pdf>]
+<appendixA.pdf, id=1540, page=3, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 3>
+Package pdftex.def Info: appendixA.pdf, page3 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 3>
+Package pdftex.def Info: appendixA.pdf, page3 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 3>
+Package pdftex.def Info: appendixA.pdf, page3 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [80 <./appendixA.pdf>]
+<appendixA.pdf, id=1547, page=4, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 4>
+Package pdftex.def Info: appendixA.pdf, page4 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 4>
+Package pdftex.def Info: appendixA.pdf, page4 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 4>
+Package pdftex.def Info: appendixA.pdf, page4 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [81 <./appendixA.pdf>]
+<appendixA.pdf, id=1554, page=5, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 5>
+Package pdftex.def Info: appendixA.pdf, page5 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 5>
+Package pdftex.def Info: appendixA.pdf, page5 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 5>
+Package pdftex.def Info: appendixA.pdf, page5 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [82 <./appendixA.pdf>]
+<appendixA.pdf, id=1561, page=6, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 6>
+Package pdftex.def Info: appendixA.pdf, page6 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 6>
+Package pdftex.def Info: appendixA.pdf, page6 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 6>
+Package pdftex.def Info: appendixA.pdf, page6 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [83 <./appendixA.pdf>]
+<appendixA.pdf, id=1569, page=7, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 7>
+Package pdftex.def Info: appendixA.pdf, page7 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 7>
+Package pdftex.def Info: appendixA.pdf, page7 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 7>
+Package pdftex.def Info: appendixA.pdf, page7 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [84 <./appendixA.pdf>]
+<appendixA.pdf, id=1576, page=8, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 8>
+Package pdftex.def Info: appendixA.pdf, page8 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 8>
+Package pdftex.def Info: appendixA.pdf, page8 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 8>
+Package pdftex.def Info: appendixA.pdf, page8 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [85 <./appendixA.pdf>]
+<appendixA.pdf, id=1583, page=9, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 9>
+Package pdftex.def Info: appendixA.pdf, page9 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 9>
+Package pdftex.def Info: appendixA.pdf, page9 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 9>
+Package pdftex.def Info: appendixA.pdf, page9 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [86 <./appendixA.pdf>]
+<appendixA.pdf, id=1590, page=10, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 10>
+Package pdftex.def Info: appendixA.pdf, page10 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 10>
+Package pdftex.def Info: appendixA.pdf, page10 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 10>
+Package pdftex.def Info: appendixA.pdf, page10 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [87 <./appendixA.pdf>]
+<appendixA.pdf, id=1597, page=11, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 11>
+Package pdftex.def Info: appendixA.pdf, page11 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 11>
+Package pdftex.def Info: appendixA.pdf, page11 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 11>
+Package pdftex.def Info: appendixA.pdf, page11 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [88 <./appendixA.pdf>]
+<appendixA.pdf, id=1604, page=12, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 12>
+Package pdftex.def Info: appendixA.pdf, page12 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 12>
+Package pdftex.def Info: appendixA.pdf, page12 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 12>
+Package pdftex.def Info: appendixA.pdf, page12 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [89 <./appendixA.pdf>]
+<appendixA.pdf, id=1612, page=13, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 13>
+Package pdftex.def Info: appendixA.pdf, page13 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 13>
+Package pdftex.def Info: appendixA.pdf, page13 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 13>
+Package pdftex.def Info: appendixA.pdf, page13 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [90 <./appendixA.pdf>]
+<appendixA.pdf, id=1619, page=14, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 14>
+Package pdftex.def Info: appendixA.pdf, page14 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 14>
+Package pdftex.def Info: appendixA.pdf, page14 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 14>
+Package pdftex.def Info: appendixA.pdf, page14 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [91 <./appendixA.pdf>]
+<appendixA.pdf, id=1626, page=15, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 15>
+Package pdftex.def Info: appendixA.pdf, page15 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 15>
+Package pdftex.def Info: appendixA.pdf, page15 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 15>
+Package pdftex.def Info: appendixA.pdf, page15 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [92 <./appendixA.pdf>]
+<appendixA.pdf, id=1633, page=16, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 16>
+Package pdftex.def Info: appendixA.pdf, page16 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 16>
+Package pdftex.def Info: appendixA.pdf, page16 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 16>
+Package pdftex.def Info: appendixA.pdf, page16 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [93 <./appendixA.pdf>]
+<appendixA.pdf, id=1640, page=17, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 17>
+Package pdftex.def Info: appendixA.pdf, page17 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 17>
+Package pdftex.def Info: appendixA.pdf, page17 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 17>
+Package pdftex.def Info: appendixA.pdf, page17 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [94 <./appendixA.pdf>]
+<appendixA.pdf, id=1647, page=18, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 18>
+Package pdftex.def Info: appendixA.pdf, page18 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 18>
+Package pdftex.def Info: appendixA.pdf, page18 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 18>
+Package pdftex.def Info: appendixA.pdf, page18 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [95 <./appendixA.pdf>]
+<appendixA.pdf, id=1655, page=19, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 19>
+Package pdftex.def Info: appendixA.pdf, page19 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 19>
+Package pdftex.def Info: appendixA.pdf, page19 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 19>
+Package pdftex.def Info: appendixA.pdf, page19 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [96 <./appendixA.pdf>]
+<appendixA.pdf, id=1662, page=20, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 20>
+Package pdftex.def Info: appendixA.pdf, page20 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 20>
+Package pdftex.def Info: appendixA.pdf, page20 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 20>
+Package pdftex.def Info: appendixA.pdf, page20 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [97 <./appendixA.pdf>]
+<appendixA.pdf, id=1669, page=21, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 21>
+Package pdftex.def Info: appendixA.pdf, page21 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 21>
+Package pdftex.def Info: appendixA.pdf, page21 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 21>
+Package pdftex.def Info: appendixA.pdf, page21 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [98 <./appendixA.pdf>]
+<appendixA.pdf, id=1676, page=22, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 22>
+Package pdftex.def Info: appendixA.pdf, page22 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 22>
+Package pdftex.def Info: appendixA.pdf, page22 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 22>
+Package pdftex.def Info: appendixA.pdf, page22 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [99 <./appendixA.pdf>]
+<appendixA.pdf, id=1683, page=23, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 23>
+Package pdftex.def Info: appendixA.pdf, page23 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 23>
+Package pdftex.def Info: appendixA.pdf, page23 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 23>
+Package pdftex.def Info: appendixA.pdf, page23 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [100 <./appendixA.pdf>]
+<appendixA.pdf, id=1690, page=24, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 24>
+Package pdftex.def Info: appendixA.pdf, page24 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 24>
+Package pdftex.def Info: appendixA.pdf, page24 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 24>
+Package pdftex.def Info: appendixA.pdf, page24 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [101 <./appendixA.pdf>]
+<appendixA.pdf, id=1698, page=25, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 25>
+Package pdftex.def Info: appendixA.pdf, page25 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 25>
+Package pdftex.def Info: appendixA.pdf, page25 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 25>
+Package pdftex.def Info: appendixA.pdf, page25 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [102 <./appendixA.pdf>]
+<appendixA.pdf, id=1705, page=26, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 26>
+Package pdftex.def Info: appendixA.pdf, page26 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 26>
+Package pdftex.def Info: appendixA.pdf, page26 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 26>
+Package pdftex.def Info: appendixA.pdf, page26 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [103 <./appendixA.pdf>]
+<appendixA.pdf, id=1712, page=27, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 27>
+Package pdftex.def Info: appendixA.pdf, page27 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 27>
+Package pdftex.def Info: appendixA.pdf, page27 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 27>
+Package pdftex.def Info: appendixA.pdf, page27 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [104 <./appendixA.pdf>]
+<appendixA.pdf, id=1719, page=28, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 28>
+Package pdftex.def Info: appendixA.pdf, page28 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 28>
+Package pdftex.def Info: appendixA.pdf, page28 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 28>
+Package pdftex.def Info: appendixA.pdf, page28 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [105 <./appendixA.pdf>]
+<appendixA.pdf, id=1726, page=29, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 29>
+Package pdftex.def Info: appendixA.pdf, page29 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 29>
+Package pdftex.def Info: appendixA.pdf, page29 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 29>
+Package pdftex.def Info: appendixA.pdf, page29 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [106 <./appendixA.pdf>]
+<appendixA.pdf, id=1733, page=30, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 30>
+Package pdftex.def Info: appendixA.pdf, page30 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 30>
+Package pdftex.def Info: appendixA.pdf, page30 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 30>
+Package pdftex.def Info: appendixA.pdf, page30 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [107 <./appendixA.pdf>]
+<appendixA.pdf, id=1741, page=31, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 31>
+Package pdftex.def Info: appendixA.pdf, page31 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 31>
+Package pdftex.def Info: appendixA.pdf, page31 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 31>
+Package pdftex.def Info: appendixA.pdf, page31 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [108 <./appendixA.pdf>]
+<appendixA.pdf, id=1748, page=32, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 32>
+Package pdftex.def Info: appendixA.pdf, page32 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 32>
+Package pdftex.def Info: appendixA.pdf, page32 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 32>
+Package pdftex.def Info: appendixA.pdf, page32 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [109 <./appendixA.pdf>]
+<appendixA.pdf, id=1755, page=33, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 33>
+Package pdftex.def Info: appendixA.pdf, page33 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 33>
+Package pdftex.def Info: appendixA.pdf, page33 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 33>
+Package pdftex.def Info: appendixA.pdf, page33 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [110 <./appendixA.pdf>]
+<appendixA.pdf, id=1762, page=34, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 34>
+Package pdftex.def Info: appendixA.pdf, page34 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 34>
+Package pdftex.def Info: appendixA.pdf, page34 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 34>
+Package pdftex.def Info: appendixA.pdf, page34 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [111 <./appendixA.pdf>]
+<appendixA.pdf, id=1769, page=35, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 35>
+Package pdftex.def Info: appendixA.pdf, page35 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 35>
+Package pdftex.def Info: appendixA.pdf, page35 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 35>
+Package pdftex.def Info: appendixA.pdf, page35 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [112 <./appendixA.pdf>]
+<appendixA.pdf, id=1776, page=36, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 36>
+Package pdftex.def Info: appendixA.pdf, page36 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 36>
+Package pdftex.def Info: appendixA.pdf, page36 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 36>
+Package pdftex.def Info: appendixA.pdf, page36 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [113 <./appendixA.pdf>]
+<appendixA.pdf, id=1784, page=37, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 37>
+Package pdftex.def Info: appendixA.pdf, page37 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 37>
+Package pdftex.def Info: appendixA.pdf, page37 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 37>
+Package pdftex.def Info: appendixA.pdf, page37 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [114 <./appendixA.pdf>]
+<appendixA.pdf, id=1791, page=38, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 38>
+Package pdftex.def Info: appendixA.pdf, page38 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 38>
+Package pdftex.def Info: appendixA.pdf, page38 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 38>
+Package pdftex.def Info: appendixA.pdf, page38 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [115 <./appendixA.pdf>]
+<appendixA.pdf, id=1798, page=39, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 39>
+Package pdftex.def Info: appendixA.pdf, page39 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 39>
+Package pdftex.def Info: appendixA.pdf, page39 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 39>
+Package pdftex.def Info: appendixA.pdf, page39 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [116 <./appendixA.pdf>]
+<appendixA.pdf, id=1805, page=40, 614.295pt x 794.97pt>
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 40>
+Package pdftex.def Info: appendixA.pdf, page40 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+ <use appendixA.pdf, page 40>
+Package pdftex.def Info: appendixA.pdf, page40 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: appendixA.pdf Graphic file (type pdf)
+
+<use appendixA.pdf, page 40>
+Package pdftex.def Info: appendixA.pdf, page40 used on input line 7.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [117 <./appendixA.pdf>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
+ (mieic-en.aux
+(abstract_en.aux) (acknows_en.aux) (quote.aux) (abbrevs_en.aux) (chapter1.aux)
+(chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux)
+(chapter7.aux) (appendix1.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
+Package rerunfilecheck Info: File `mieic-en.out' has not changed.
+(rerunfilecheck)             Checksum: AD264D8A43407F42B209A9896C6326D8;4795.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
+ ) 
+Here is how much of TeX's memory you used:
+ 12994 strings out of 493323
+ 191307 string characters out of 3139066
+ 332509 words of memory out of 3000000
+ 15687 multiletter control sequences out of 15000+200000
+ 93413 words of font info for 117 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 47i,18n,54p,1390b,625s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/
+ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on mieic-en.pdf (137 pages, 49810573 bytes).
+PDF statistics:
+ 1942 PDF objects out of 2073 (max. 8388607)
+ 415 named destinations out of 1000 (max. 500000)
+ 1113 words of extra memory for PDF output out of 10000 (max. 10000000)
+

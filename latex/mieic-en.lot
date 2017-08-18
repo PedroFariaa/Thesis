@@ -1,0 +1,33 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces User Stories of BCCT planning tool\relax }}{27}{table.4.1}
+\contentsline {table}{\numberline {4.1}{\ignorespaces User Stories of BCCT planning tool\relax }}{28}{table.4.1}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces List of Features\relax }}{54}{table.caption.42}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Global Evaluation Metrics for the first approach of the naive method\relax }}{56}{table.caption.46}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Local Evaluation Metrics for the first approach of the naive method\relax }}{56}{table.caption.47}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Global Evaluation Metrics for the second approach of the naive method\relax }}{56}{table.caption.49}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Local Evaluation Metrics for the second approach of the naive method\relax }}{57}{table.caption.50}
+\contentsline {table}{\numberline {6.5}{\ignorespaces Global Evaluation Metrics for RF models using LOO train/test split\relax }}{59}{table.caption.52}
+\contentsline {table}{\numberline {6.6}{\ignorespaces Local Evaluation Metrics for RF models using LOO train/test split\relax }}{59}{table.caption.53}
+\contentsline {table}{\numberline {6.7}{\ignorespaces Global Evaluation Metrics for RF models using the train/test biased split\relax }}{59}{table.caption.54}
+\contentsline {table}{\numberline {6.8}{\ignorespaces Local Evaluation Metrics for RF models using the train/test biased split\relax }}{60}{table.caption.55}
+\contentsline {table}{\numberline {6.9}{\ignorespaces RF feature importance\relax }}{60}{table.caption.56}
+\contentsline {table}{\numberline {6.10}{\ignorespaces Global Evaluation Metrics for RF models considering breast internal points with LOO train/test split\relax }}{62}{table.caption.58}
+\contentsline {table}{\numberline {6.11}{\ignorespaces Local Evaluation Metrics for RF models considering breast internal points with LOO train/test split\relax }}{62}{table.caption.59}
+\contentsline {table}{\numberline {6.12}{\ignorespaces Global Evaluation Metrics for RF models considering breast internal points with random train/test split\relax }}{62}{table.caption.60}
+\contentsline {table}{\numberline {6.13}{\ignorespaces Local Evaluation Metrics for RF models considering breast internal points with random train/test split\relax }}{63}{table.caption.61}
+\contentsline {table}{\numberline {6.14}{\ignorespaces Global Evaluation Metrics for MOR model considering only breast surface points to predict the displacement of the points in the three different axis. This results are relative to the LOO train/test split.\relax }}{65}{table.caption.64}
+\contentsline {table}{\numberline {6.15}{\ignorespaces Local Evaluation Metrics for MOR model considering only breast surface points to predict the displacement of the points in the three different axis. This results are relative to the LOO train/test split.\relax }}{65}{table.caption.65}
+\contentsline {table}{\numberline {6.16}{\ignorespaces Global Evaluation Metrics for MOR model considering surface and internal points of the breast's 3D model to predict the displacement of the points in the three different axis. This results are relative to the LOO train/test split.\relax }}{65}{table.caption.66}
+\contentsline {table}{\numberline {6.17}{\ignorespaces Local Evaluation Metrics for MOR model considering surface and internal points of the breast's 3D model to predict the displacement of the points in the three different axis. This results are relative to the LOO train/test split.\relax }}{66}{table.caption.67}
+\contentsline {table}{\numberline {6.18}{\ignorespaces Global Evaluation Metrics considering surface points of the breast 3D model to predict the displacement of the points in \textit {x} and \textit {y} axis (using MOR) and the displacement in \textit {z} axis (using RF). This results are relative to the LOO train/test split.\relax }}{67}{table.caption.69}
+\contentsline {table}{\numberline {6.19}{\ignorespaces Local Evaluation Metrics considering surface points of the breast 3D model to predict the displacement of the points in \textit {x} and \textit {y} axis (using MOR) and the displacement in \textit {z} axis (using RF). This results are relative to the LOO train/test split.\relax }}{67}{table.caption.70}
+\contentsline {table}{\numberline {6.20}{\ignorespaces Global Evaluation Metrics considering surface and internal points of the breast 3D model to predict the displacement of the points in \textit {x} and \textit {y} axis (using MOR) and the displacement in \textit {z} axis (using RF). This results are relative to the LOO train/test split.\relax }}{68}{table.caption.71}
+\contentsline {table}{\numberline {6.21}{\ignorespaces Local Evaluation Metrics considering surface and internal points of the breast 3D model to predict the displacement of the points in \textit {x} and \textit {y} axis (using MOR) and the displacement in \textit {z} axis (using RF). This results are relative to the LOO train/test split.\relax }}{68}{table.caption.72}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
